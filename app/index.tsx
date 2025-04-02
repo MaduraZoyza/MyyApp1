@@ -58,9 +58,9 @@ function App() {
         <View style={{
           flexDirection: 'row',
           alignItems: 'center',
-          borderWidth: 2,
+          borderWidth: 5,
           borderColor: 'black',
-          borderRadius: 15,
+          borderRadius: 20,
           padding: 10,
           backgroundColor: 'white'
         }}>
